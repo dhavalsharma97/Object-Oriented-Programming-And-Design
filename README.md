@@ -1,6 +1,6 @@
 # Object Oriented Programming And Design
  CS-635
-This course was part of my Master's at SDSU.
+This course was part of my Masters at SDSU.
 
 Assignment 1:
 1. Implement a circular doubly linked queue. Your queue needs to support adding new elements, return the element with the first element and removing the first element. Adding an element and removing the element with the highest element should be at most O(1) where N is the size of the queue. The queue should start with a capacity greater that 1. When the queue is full and another element is added the queue capacity should be doubled. If additions and deletions are intermixed it is possible that a large number additions can be done without increasing the capacity.
